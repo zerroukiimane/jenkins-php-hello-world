@@ -1,1 +1,1 @@
-<?php echo "JOB SCM  UPDATE3"; ?>
+<?php echo "EXO 2 UPDATE"; ?>
