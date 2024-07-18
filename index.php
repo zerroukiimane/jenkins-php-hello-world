@@ -1,1 +1,1 @@
-<?php echo "EXO 2 UPDATE"; ?>
+<?php echo "EXO 2 UPDATE1"; ?>
